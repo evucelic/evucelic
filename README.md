@@ -1,5 +1,8 @@
 ## Hi there 👋
-If you are interested check out my portfolio page at https://evucelic.github.io/ !
+This account is used for mostly personal projects, some college stuff, some experiments and recreations of already exsiting stuff.
+If you are a recruiter check out my portfolio page at https://evucelic.github.io/ !
+
+Open to chat about anything
 <!--
 **evucelic/evucelic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
